@@ -1,15 +1,9 @@
-# MKS-Robin-Nano-Firmware
-Include Nano-firmware-v2.x.x can run on MKS Robin Nano motherboard.
 ## Nano-firmware-v2.0.2
-- Parameters are set directly through the screen
-- After the parameter is set, it will work directly without restarting
-- More suitable for DIY users
 
 # How to build and update it
-- Get [firmware bin](https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile) file
-- To [compile](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware/wiki/How-to-build-update-nano-firmware)
+- Get My!!!! [firmware bin](https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile) file
 
 # How to buy the MKS Robin Nano board [click here](https://pt.aliexpress.com/item/33013776323.html?spm=a2g03.12010612.8148356.1.6065788ea0s5gT)
-![MKS Robin Nano](https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile/blob/master/long%20name.JPG)
-(https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile/blob/master/more.JPG)
-(https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile/blob/master/UBL.JPG)
+![LOng name](https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile/blob/master/long%20name.JPG)
+![More](https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile/blob/master/more.JPG)
+![UBL](https://github.com/ochkariky/MKS-Robin-Nano-Firmware_compile/blob/master/UBL.JPG)
