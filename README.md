@@ -1,3 +1,14 @@
+ToDo:
+1 add existing modifications(UBL, M48, more menu). 
+2 Enable Linear Advance. 
+3. correct gcode-picture and view in sdcard menu. 
+4 add BabyStep from More menu? 
+5. modify preheat button direct form operate screen.
+6. modifi Zoffset view. increase mantissa. now  -1.75 view as -1.8.
+Current state:
+1. Linear Advance - tested, it`s working... Same problem - sometime extruder surprise stoping. and printer fail. 
+   For my SapphirePro and bouden - Linear Advance K - is K>200. extruder say KRACK!))) LA - is not good for my.
+2.
 ## Nano-firmware-v2.0.2
 
 # How to build and update it
